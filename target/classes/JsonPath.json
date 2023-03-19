@@ -1,0 +1,33 @@
+{
+"squad Name": "Justice League",
+"hometown": "DC",
+"formed": 1934,
+"secretBase": "Batcave",
+"active":" true",
+"members": [
+{
+"name": "Bruce Wayne",
+"age": 36,
+"secretIdentity" :"Bruce Wayne",
+"powers":["super Rich" ,
+		"Genius",
+		"Batmobile"]
+},
+{
+"name":"Diana",
+"age" : 300,
+"secretIdentity": "Wonderwoman",
+"powers":["super Rich" ,
+		"Genius",
+		"Batmobile"]
+},
+{
+"name":"Clark want",
+"age" : 100000,
+"secretIdentity": "Superman",
+"powers": [" flight ",
+" Heat Immunity",
+"heat vision"]
+}
+]
+}
